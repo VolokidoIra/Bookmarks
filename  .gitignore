@@ -2,9 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
 # C extensions
 *.so
-.idea/
+
 # Distribution / packaging
 .Python
 build/
@@ -126,7 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-
-/logs
-/config/counter.txt
